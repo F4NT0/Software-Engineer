@@ -1,27 +1,24 @@
 {
   "main": {
-    "id": "dfb08d63820b5258",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "2b842f547459b45c",
+        "id": "659e5d9a3df2a726",
         "type": "tabs",
         "children": [
           {
-            "id": "2259b74d40c1fa5b",
+            "id": "c6dd3279221bc034",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Random/Brainstorm.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -93,
-                  "zoom": 0
-                }
+                "file": "Random/Value Objects no .NET.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Brainstorm"
+              "icon": "lucide-file",
+              "title": "Value Objects no .NET"
             }
           }
         ]
@@ -43,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -80,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 308
   },
   "right": {
     "id": "9aef16c8d2a3d563",
@@ -142,20 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random/Brainstorm.canvas"
+                "file": "Random/Value Objects no .NET.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Brainstorm"
-            }
-          },
-          {
-            "id": "24369715c69873e3",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "title": "Outline of Value Objects no .NET"
             }
           },
           {
@@ -169,7 +160,23 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
+      },
+      {
+        "id": "350efa17d6fe71ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24369715c69873e3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,12 +195,26 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2259b74d40c1fa5b",
+  "active": "fca936a7bff14a3f",
   "lastOpenFiles": [
-    "Random/Images.md",
+    "Images/Pasted image 20250205103056.png",
+    "Random/Java Streams.md",
+    "Random/Value Objects no .NET.md",
     "Random/Brainstorm.canvas",
-    "Untitled.md",
+    "Random/Four Design Patterns used rotinely.md",
+    "Images/Pasted image 20250205082621.png",
+    "Images/Pasted image 20250205083235.png",
+    "Images/Pasted image 20250205083401.png",
+    "Images",
+    "Images/Pasted image 20250205083309.png",
+    "Random/Roadmap to .NET.md",
+    "Random/DRY.md",
+    "Random/Interview tips .NET Core.md",
+    "2-Basico_Csharp/1 - Tipos de dados/Conversão de tipos.md",
+    "2-Basico_Csharp/1 - Tipos de dados/Tipos Primitivos.md",
     "Dotnet Software Engineer.md",
+    "Random/Images.md",
+    "Untitled.md",
     "Random",
     "Tipos de dados.md",
     "2-Basico_Csharp/6 - Tipos na memória/Tipos de Valor.md",
@@ -216,15 +237,6 @@
     "2-Basico_Csharp/Untitled.md",
     "2-Basico_Csharp/4 - Laços de Repetição/FOR.md",
     "2-Basico_Csharp/4 - Laços de Repetição/DO.md",
-    "2-Basico_Csharp/3 - Estruturas Condicionais/SWITCH.md",
-    "2-Basico_Csharp/4 - Laços de Repetição",
-    "2-Basico_Csharp/3 - Estruturas Condicionais/IF-ELSE.md",
-    "2-Basico_Csharp/3 - Estruturas Condicionais",
-    "2-Basico_Csharp/2 - Operadores/Lógicos.md",
-    "2-Basico_Csharp/2 - Operadores/Incremento-Decremento.md",
-    "2-Basico_Csharp/2 - Operadores/Condicional.md",
-    "2-Basico_Csharp/2 - Operadores/Comparação.md",
-    "2-Basico_Csharp/2 - Operadores/Atribuição.md",
-    "2-Basico_Csharp/2 - Operadores/Aritméticos.md"
+    "2-Basico_Csharp/4 - Laços de Repetição"
   ]
 }

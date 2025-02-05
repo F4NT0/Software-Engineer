@@ -6,6 +6,9 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiImage",
+      "LiBrain",
+      "LiHome",
       "LiFolder"
     ],
     "recentlyUsedIconsSize": 5,
@@ -30,7 +33,32 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "2-Basico_Csharp": "LiFolder",
-  "3-Estrutura_dados": "LiFolder",
-  "1-Configuracao": "LiFolder"
+  "2-Basico_Csharp": {
+    "iconName": "LiFolder",
+    "iconColor": "#ff6600"
+  },
+  "3-Estrutura_dados": {
+    "iconName": "LiFolder",
+    "iconColor": "#ff7b00"
+  },
+  "1-Configuracao": {
+    "iconName": "LiFolder",
+    "iconColor": "#ff7b00"
+  },
+  "Random": {
+    "iconName": "LiFolder",
+    "iconColor": "#ff0000"
+  },
+  "Dotnet Software Engineer.md": {
+    "iconName": "LiHome",
+    "iconColor": "#4dff00"
+  },
+  "Random/Brainstorm.canvas": {
+    "iconName": "LiBrain",
+    "iconColor": "#ff00bb"
+  },
+  "Images": {
+    "iconName": "LiImage",
+    "iconColor": "#00ff04"
+  }
 }
