@@ -11,10 +11,17 @@
             "id": "d47c150672b6e488",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "2-Basico_Csharp/Resumo.canvas",
+                "viewState": {
+                  "x": -917,
+                  "y": -781,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Resumo"
             }
           }
         ]
@@ -136,12 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2-Basico_Csharp/Resumo.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Resumo"
             }
           },
           {
@@ -192,13 +200,15 @@
   },
   "active": "d47c150672b6e488",
   "lastOpenFiles": [
+    "Random/Brainstorm.canvas",
+    "Images/Pasted image 20250205132043.png",
+    "2-Basico_Csharp/Resumo.canvas",
+    "2-Basico_Csharp/Images/Conversion types - Implicit.png",
     "Images/1737540678028.jpg",
     "Images/1737454716488.jpg",
     "Images/1737367445824.jpg",
     "Images/1737280860686.jpg",
     "Images/1737091378536.jpg",
-    "2-Basico_Csharp/Resumo.canvas",
-    "2-Basico_Csharp/Images/Conversion types - Implicit.png",
     "2-Basico_Csharp/1 - Tipos de dados/Conversão de tipos.md",
     "2-Basico_Csharp/Images/Data Types - Letters and Boolean.png",
     "2-Basico_Csharp/1 - Tipos de dados/Tipos Primitivos.md",
@@ -211,14 +221,11 @@
     "2-Basico_Csharp/2 - Operadores/Atribuição.md",
     "2-Basico_Csharp/2 - Operadores/Aritméticos.md",
     "2-Basico_Csharp/Images",
-    "2-Basico_Csharp/Images/GUID.png",
     "2-Basico_Csharp/12 - GUID/GUID.md",
     "Random/Essential Design Patterns.md",
     "2-Basico_Csharp/12 - GUID",
     "2-Basico_Csharp/Untitled.md",
-    "Images/Pasted image 20250205104925.png",
     "Random/Records em DTOs.md",
-    "Random/Brainstorm.canvas",
     "Random/Value Objects no .NET.md",
     "Random/Java Streams.md",
     "Random/Four Design Patterns used rotinely.md",
