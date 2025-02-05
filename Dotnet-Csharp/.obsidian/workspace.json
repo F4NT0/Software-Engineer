@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "dfb08d63820b5258",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b842f547459b45c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2259b74d40c1fa5b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Random/Brainstorm.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -93,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Brainstorm"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be0d1ed45b2ff01f",
+    "type": "split",
+    "children": [
+      {
+        "id": "08285311d8a8b525",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fca936a7bff14a3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "96b0111573279680",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bfbb60960ceaef99",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9aef16c8d2a3d563",
+    "type": "split",
+    "children": [
+      {
+        "id": "655f27943543ee38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "655a1aa9d561026b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Random/Brainstorm.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Brainstorm"
+            }
+          },
+          {
+            "id": "92619fecd411bdc9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Random/Brainstorm.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Brainstorm"
+            }
+          },
+          {
+            "id": "e24b8793ebd4db31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "39fe7aef525cfe0f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Random/Brainstorm.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Brainstorm"
+            }
+          },
+          {
+            "id": "24369715c69873e3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "658ec0b050d7a52a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "2259b74d40c1fa5b",
+  "lastOpenFiles": [
+    "Random/Images.md",
+    "Random/Brainstorm.canvas",
+    "Untitled.md",
+    "Dotnet Software Engineer.md",
+    "Random",
+    "Tipos de dados.md",
+    "2-Basico_Csharp/6 - Tipos na memória/Tipos de Valor.md",
+    "2-Basico_Csharp/9 - Classes dotnet/Classe Math.md",
+    "2-Basico_Csharp/6 - Tipos na memória/Tipos de Referência.md",
+    "2-Basico_Csharp/11 - ForEach/FOREACH.md",
+    "2-Basico_Csharp/11 - ForEach",
+    "2-Basico_Csharp/10 - Arrays/ARRAY.md",
+    "2-Basico_Csharp/10 - Arrays",
+    "2-Basico_Csharp/9 - Classes dotnet/Entendendo Classe.md",
+    "2-Basico_Csharp/8 - Enums/ENUM.md",
+    "2-Basico_Csharp/9 - Classes dotnet",
+    "2-Basico_Csharp/7 - Structs/STRUCT.md",
+    "2-Basico_Csharp/8 - Enums",
+    "2-Basico_Csharp/7 - Structs",
+    "2-Basico_Csharp/5 - Funções/Functions.md",
+    "2-Basico_Csharp/6 - Tipos na memória",
+    "2-Basico_Csharp/4 - Laços de Repetição/WHILE.md",
+    "2-Basico_Csharp/5 - Funções",
+    "2-Basico_Csharp/Untitled.md",
+    "2-Basico_Csharp/4 - Laços de Repetição/FOR.md",
+    "2-Basico_Csharp/4 - Laços de Repetição/DO.md",
+    "2-Basico_Csharp/3 - Estruturas Condicionais/SWITCH.md",
+    "2-Basico_Csharp/4 - Laços de Repetição",
+    "2-Basico_Csharp/3 - Estruturas Condicionais/IF-ELSE.md",
+    "2-Basico_Csharp/3 - Estruturas Condicionais",
+    "2-Basico_Csharp/2 - Operadores/Lógicos.md",
+    "2-Basico_Csharp/2 - Operadores/Incremento-Decremento.md",
+    "2-Basico_Csharp/2 - Operadores/Condicional.md",
+    "2-Basico_Csharp/2 - Operadores/Comparação.md",
+    "2-Basico_Csharp/2 - Operadores/Atribuição.md",
+    "2-Basico_Csharp/2 - Operadores/Aritméticos.md"
+  ]
+}
