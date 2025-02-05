@@ -60,5 +60,9 @@
   "Images": {
     "iconName": "LiImage",
     "iconColor": "#00ff04"
+  },
+  "2-Basico_Csharp/Images": {
+    "iconName": "LiImage",
+    "iconColor": "#2bff00"
   }
 }
