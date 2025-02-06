@@ -1,3 +1,4 @@
+#random
 𝐀 𝐌𝐨𝐝𝐞𝐫𝐧 𝐖𝐚𝐲 𝐭𝐨 𝐒𝐨𝐥𝐯𝐞 𝐏𝐫𝐢𝐦𝐢𝐭𝐢𝐯𝐞 𝐎𝐛𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐢𝐧 .𝐍𝐄𝐓  
   
 𝐏𝐫𝐢𝐦𝐢𝐭𝐢𝐯𝐞 𝐨𝐛𝐬𝐞𝐬𝐬𝐢𝐨𝐧 is a tendency to use basic data types to represent more complex concepts. It is a common anti-pattern that can lead to unclear code and harder-to-maintain systems.  

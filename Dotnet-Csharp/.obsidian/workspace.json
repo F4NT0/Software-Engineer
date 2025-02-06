@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6a1342ee4128d86d",
+        "id": "5760d18ea0aa19f4",
         "type": "tabs",
         "children": [
           {
-            "id": "d47c150672b6e488",
+            "id": "c95870e259aa6d67",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "2-Basico_Csharp/Resumo.canvas",
                 "viewState": {
-                  "x": -917,
-                  "y": -781,
-                  "zoom": 0
+                  "x": -897,
+                  "y": -698.4585365853659,
+                  "zoom": -0.031326334193905556
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -90,6 +90,7 @@
       {
         "id": "655f27943543ee38",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "655a1aa9d561026b",
@@ -168,6 +169,7 @@
       {
         "id": "350efa17d6fe71ef",
         "type": "tabs",
+        "dimension": 25,
         "children": [
           {
             "id": "24369715c69873e3",
@@ -180,10 +182,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "ee3024cc2d645676",
+        "type": "tabs",
+        "dimension": 41.66666666666667,
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 472
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,49 +217,50 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d47c150672b6e488",
+  "active": "c95870e259aa6d67",
   "lastOpenFiles": [
-    "Random/Brainstorm.canvas",
-    "Images/Pasted image 20250205132043.png",
+    "2-Basico_Csharp/Images/GUID.png",
     "2-Basico_Csharp/Resumo.canvas",
+    "2-Basico_Csharp/11 - ForEach/FOREACH.md",
+    "2-Basico_Csharp/12 - GUID/GUID.md",
+    "2-Basico_Csharp/7 - Structs/STRUCT.md",
+    "2-Basico_Csharp/8 - Enums/ENUM.md",
+    "2-Basico_Csharp/Images/Data Types - Numbers.png",
+    "Dotnet Software Engineer.md",
+    "1-Configuracao/Visual Studio 2022.md",
+    "1-Configuracao/Configuração.md",
+    "2-Basico_Csharp/Images/Conditional Structure - if-else.png",
+    "2-Basico_Csharp/3 - Estruturas Condicionais/IF-ELSE.md",
+    "2-Basico_Csharp/Images/Conversion types - Explicit.png",
+    "2-Basico_Csharp/1 - Tipos de dados/Conversão de tipos.md",
+    "2-Basico_Csharp/Básico de Csharp.md",
+    "Random/Aleatórios.md",
+    "Random/Brainstorm.canvas",
+    "Random/Value Objects no .NET.md",
+    "Random/Roadmap to .NET.md",
+    "Random/Records em DTOs.md",
+    "Random/Java Streams.md",
+    "Random/Interview tips .NET Core.md",
+    "Random/Four Design Patterns used rotinely.md",
+    "Random/Essential Design Patterns.md",
+    "Random/DRY.md",
+    "2-Basico_Csharp/10 - Arrays/ARRAY.md",
+    "2-Basico_Csharp/9 - Classes dotnet/Entendendo Classe.md",
+    "2-Basico_Csharp/9 - Classes dotnet/Classe Math.md",
+    "2-Basico_Csharp/6 - Tipos na memória/Tipos de Valor.md",
+    "2-Basico_Csharp/6 - Tipos na memória/Tipos de Referência.md",
+    "2-Basico_Csharp/5 - Funções/Functions.md",
+    "Images/Pasted image 20250205132043.png",
     "2-Basico_Csharp/Images/Conversion types - Implicit.png",
     "Images/1737540678028.jpg",
     "Images/1737454716488.jpg",
     "Images/1737367445824.jpg",
     "Images/1737280860686.jpg",
     "Images/1737091378536.jpg",
-    "2-Basico_Csharp/1 - Tipos de dados/Conversão de tipos.md",
-    "2-Basico_Csharp/Images/Data Types - Letters and Boolean.png",
-    "2-Basico_Csharp/1 - Tipos de dados/Tipos Primitivos.md",
-    "2-Basico_Csharp/Images/Data Types - Numbers.png",
-    "2-Basico_Csharp/Images/Operations.png",
-    "2-Basico_Csharp/2 - Operadores/Lógicos.md",
-    "2-Basico_Csharp/2 - Operadores/Incremento-Decremento.md",
-    "2-Basico_Csharp/2 - Operadores/Condicional.md",
-    "2-Basico_Csharp/2 - Operadores/Comparação.md",
-    "2-Basico_Csharp/2 - Operadores/Atribuição.md",
-    "2-Basico_Csharp/2 - Operadores/Aritméticos.md",
     "2-Basico_Csharp/Images",
-    "2-Basico_Csharp/12 - GUID/GUID.md",
-    "Random/Essential Design Patterns.md",
     "2-Basico_Csharp/12 - GUID",
-    "2-Basico_Csharp/Untitled.md",
-    "Random/Records em DTOs.md",
-    "Random/Value Objects no .NET.md",
-    "Random/Java Streams.md",
-    "Random/Four Design Patterns used rotinely.md",
     "Images",
-    "Random/Roadmap to .NET.md",
-    "Random/DRY.md",
-    "Random/Interview tips .NET Core.md",
-    "Dotnet Software Engineer.md",
-    "Random/Images.md",
-    "Untitled.md",
     "Random",
-    "Tipos de dados.md",
-    "2-Basico_Csharp/6 - Tipos na memória/Tipos de Valor.md",
-    "2-Basico_Csharp/9 - Classes dotnet/Classe Math.md",
-    "2-Basico_Csharp/6 - Tipos na memória/Tipos de Referência.md",
     "2-Basico_Csharp/11 - ForEach",
     "2-Basico_Csharp/10 - Arrays",
     "2-Basico_Csharp/9 - Classes dotnet",

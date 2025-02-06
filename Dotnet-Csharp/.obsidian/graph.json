@@ -5,8 +5,51 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:csharp",
+      "color": {
+        "a": 1,
+        "rgb": 1760000
+      }
+    },
+    {
+      "query": "tag:home",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:.net",
+      "color": {
+        "a": 1,
+        "rgb": 14946781
+      }
+    },
+    {
+      "query": "tag:random",
+      "color": {
+        "a": 1,
+        "rgb": 15601937
+      }
+    },
+    {
+      "query": "tag:db",
+      "color": {
+        "a": 1,
+        "rgb": 854497
+      }
+    },
+    {
+      "query": "tag:config  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.713275462622443,
+  "scale": 0.36288736930121407,
   "close": true
 }

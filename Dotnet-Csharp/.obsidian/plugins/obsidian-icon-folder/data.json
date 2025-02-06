@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFile",
       "LiImage",
       "LiBrain",
       "LiHome",
@@ -59,10 +60,22 @@
   },
   "Images": {
     "iconName": "LiImage",
-    "iconColor": "#00ff04"
+    "iconColor": "#ffdd00"
   },
   "2-Basico_Csharp/Images": {
     "iconName": "LiImage",
+    "iconColor": "#ffd500"
+  },
+  "2-Basico_Csharp/Básico de Csharp.md": {
+    "iconName": "LiFile",
+    "iconColor": "#00ff1e"
+  },
+  "Random/Aleatórios.md": {
+    "iconName": "LiFile",
+    "iconColor": "#2bff00"
+  },
+  "1-Configuracao/Configuração.md": {
+    "iconName": "LiFile",
     "iconColor": "#2bff00"
   }
 }

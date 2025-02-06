@@ -1,3 +1,4 @@
+#random
 🚀 𝐀𝐜𝐞 𝐘𝐨𝐮𝐫 𝐍𝐞𝐱𝐭 𝐖𝐞𝐛 𝐀𝐏𝐈 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰 𝐰𝐢𝐭𝐡 .𝐍𝐄𝐓 𝐂𝐨𝐫𝐞! 🚀  
   
 Whether you're preparing for your first interview or polishing your skills for a senior role, mastering Web API concepts in .NET Core is a must! Here's a curated list of 20 interview questions, ranging from beginner to advanced, to help you get ready:  

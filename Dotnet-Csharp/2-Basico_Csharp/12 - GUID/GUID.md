@@ -1,3 +1,4 @@
+#csharp
 Global Unique Identifier é um identificador único de 128 bits usado para identificar informações em sistemas de computador.
 Amplamente utilizado para garantir que cada valor gerado seja único em um contexto global.
 Útil para banco de dados, interfaces de programação de aplicativos (APIs) e sistemas distribuídos.

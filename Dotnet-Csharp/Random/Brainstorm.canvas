@@ -6,7 +6,7 @@
 		{"id":"258eaa075a02c6c6","type":"file","file":"Images/1737367445824.jpg","x":-640,"y":-1317,"width":809,"height":435},
 		{"id":"e16ee037badfe600","type":"file","file":"Images/1737280860686.jpg","x":-665,"y":-808,"width":1152,"height":648},
 		{"id":"c099d03a4e157719","type":"file","file":"Images/1737091378536.jpg","x":-1740,"y":-300,"width":1000,"height":563},
-		{"id":"39a3e9c73cc38684","x":-665,"y":-120,"width":834,"height":1043,"type":"file","file":"Images/Pasted image 20250205132043.png"}
+		{"id":"39a3e9c73cc38684","type":"file","file":"Images/Pasted image 20250205132043.png","x":-665,"y":-120,"width":834,"height":1043}
 	],
 	"edges":[]
 }

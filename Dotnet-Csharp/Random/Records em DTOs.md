@@ -1,3 +1,4 @@
+#random
 💡 𝗖# 𝐓𝐢𝐩 - 𝗨𝘀𝗲 𝗥𝗲𝗰𝗼𝗿𝗱𝘀 𝗳𝗼𝗿 𝗗𝗮𝘁𝗮 𝗧𝗿𝗮𝗻𝘀𝗳𝗲𝗿 𝗢𝗯𝗷𝗲𝗰𝘁𝘀 (𝗗𝗧𝗢𝘀)  
   
 🔥 𝗖# 𝟵 introduced 𝗿𝗲𝗰𝗼𝗿𝗱𝘀, a new data type ideal for defining immutable data models. Like classes, 𝗿𝗲𝗰𝗼𝗿𝗱𝘀 offer value semantics and unique features that make them well-suited for scenarios like 𝘿𝙏𝙊𝙨 or simple configurations.  
