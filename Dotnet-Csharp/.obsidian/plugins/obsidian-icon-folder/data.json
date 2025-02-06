@@ -34,18 +34,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "2-Basico_Csharp": {
-    "iconName": "LiFolder",
-    "iconColor": "#ff6600"
-  },
-  "3-Estrutura_dados": {
-    "iconName": "LiFolder",
-    "iconColor": "#ff7b00"
-  },
-  "1-Configuracao": {
-    "iconName": "LiFolder",
-    "iconColor": "#ff7b00"
-  },
   "Random": {
     "iconName": "LiFolder",
     "iconColor": "#ff0000"
@@ -62,20 +50,44 @@
     "iconName": "LiImage",
     "iconColor": "#ffdd00"
   },
-  "2-Basico_Csharp/Images": {
-    "iconName": "LiImage",
-    "iconColor": "#ffd500"
-  },
-  "2-Basico_Csharp/Básico de Csharp.md": {
-    "iconName": "LiFile",
-    "iconColor": "#00ff1e"
-  },
   "Random/Aleatórios.md": {
     "iconName": "LiFile",
     "iconColor": "#2bff00"
   },
-  "1-Configuracao/Configuração.md": {
+  "2 - Básico de Csharp": {
+    "iconName": "LiFolder",
+    "iconColor": "#ff6600"
+  },
+  "2 - Básico de Csharp/Básico de Csharp.md": {
+    "iconName": "LiFile",
+    "iconColor": "#00ff1e"
+  },
+  "2 - Básico de Csharp/Images": {
+    "iconName": "LiImage",
+    "iconColor": "#ffd500"
+  },
+  "1 - Configuração": {
+    "iconName": "LiFolder",
+    "iconColor": "#ff7b00"
+  },
+  "1 - Configuração/Configuração.md": {
     "iconName": "LiFile",
     "iconColor": "#2bff00"
+  },
+  "3 - Estrutura de Dados": {
+    "iconName": "LiFolder",
+    "iconColor": "#ff7b00"
+  },
+  "4 - Orientação a Objetos": {
+    "iconName": "LiFolder",
+    "iconColor": "#ff7b00"
+  },
+  "5 - Algoritmos": {
+    "iconName": "LiFolder",
+    "iconColor": "#ff7b00"
+  },
+  "6 - ASP.NET": {
+    "iconName": "LiFolder",
+    "iconColor": "#ff7b00"
   }
 }

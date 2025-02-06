@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"05ca50cf48bb41a2","type":"group","x":-1840,"y":-1080,"width":1280,"height":840,"color":"5","label":"1 - Basic C# data"},
+		{"id":"9a1b41181028b5b3","type":"group","x":-1840,"y":-160,"width":1280,"height":760,"color":"1","label":"2 - Basics C# structures"},
+		{"id":"a45f5212528b5305","type":"text","text":"LANGUAGE BASIC","x":-1790,"y":-1422,"width":250,"height":60,"color":"5"},
+		{"id":"ed93638a807ff28e","type":"text","text":"BASIC STRUCTURES","x":-1790,"y":-1362,"width":250,"height":60,"color":"1"},
+		{"id":"066ef2351b10b4ea","type":"text","text":"C# FUNCTIONS","x":-1790,"y":-1302,"width":250,"height":60,"color":"4"},
+		{"id":"d8acced7b64835ed","type":"text","text":"## Common Data Structures in C\n[Collections and Data Structures - .NET | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/standard/collections/)\n\n**Dictionary** - [Dictionary | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.dictionary-2?view=net-8.0)\n**List** - [List | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1?view=net-8.0)\n**Queue** - [Queue | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.queue-1?view=net-8.0)\n**Stack** - [Stack | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.stack-1?view=net-8.0)\n**LinkedList** - [LinkedList | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.linkedlist-1?view=net-8.0)\n**SortedList** - [SortedList | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.sortedlist-2?view=net-8.0)\n**HashSet** - [HashSet |  Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.hashset-1?view=net-8.0)\n**SortedSet** - [SortedSet | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.sortedset-1?view=net-8.0)\n","x":-1522,"y":-1569,"width":506,"height":355},
+		{"id":"39b9952cbcb56ec5","type":"file","file":"2 - Básico de Csharp/Images/GUID.png","x":-932,"y":-1569,"width":542,"height":100,"color":"#0af906"},
+		{"id":"26279f9c3b7f757f","type":"file","file":"2 - Básico de Csharp/Images/Conditional Structure - if-else.png","x":-1820,"y":-120,"width":266,"height":400},
+		{"id":"e94151b989d2df1c","type":"file","file":"2 - Básico de Csharp/Images/Conditional Structure - switch.png","x":-1540,"y":-120,"width":279,"height":400},
+		{"id":"04107b56b865598c","type":"file","file":"2 - Básico de Csharp/Images/Operations.png","x":-1790,"y":-1020,"width":300,"height":718},
+		{"id":"d63cbb3f5900c424","type":"file","file":"2 - Básico de Csharp/Images/Data Types - Numbers.png","x":-1469,"y":-1020,"width":400,"height":267},
+		{"id":"164f459dd18d9e00","type":"file","file":"2 - Básico de Csharp/Images/Data Types - Letters and Boolean.png","x":-1469,"y":-704,"width":399,"height":190},
+		{"id":"e99d797afb17265a","type":"file","file":"2 - Básico de Csharp/Images/Conversion types - Implicit.png","x":-1016,"y":-1022,"width":400,"height":218},
+		{"id":"ee88446ede1f6e54","type":"file","file":"2 - Básico de Csharp/Images/Conversion types - Explicit.png","x":-1016,"y":-753,"width":400,"height":335}
+	],
+	"edges":[]
+}

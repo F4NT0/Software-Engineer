@@ -1,7 +1,7 @@
 #home
 # .NET Software Engineer
 ---
-Página inicial de todo o conhecimento em .NET que aprendi e continuo aprendendo até hoje.
+Página inicial de todo o conhecimento em C# com .NET que aprendi e continuo aprendendo até hoje.
 
 ## Conteúdo
 
