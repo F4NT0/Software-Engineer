@@ -1,4 +1,4 @@
-#random
+#basic
 Java Streams API makes handling collections more efficient, readable and declarative.
 
 -  __stream()__ - Convert a Collection into a Stream

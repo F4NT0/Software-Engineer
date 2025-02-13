@@ -6,6 +6,7 @@ Página inicial de todo o conhecimento em Java com Spring que aprendi e continuo
 ## Conteúdo
 
 
-| Descrição | Página |
-| --------- | ------ |
-|           |        |
+| Descrição          | Página           |
+| ------------------ | ---------------- |
+| Biblioteca Streams | [[Java Streams]] |
+|                    |                  |
