@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Respostas de Vagas.canvas",
+                "file": "Sicredi.canvas",
                 "viewState": {
-                  "x": -184.5,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 286.7151237715791,
+                  "y": 1921.574691467216,
+                  "zoom": -0.06674273549100618
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Respostas de Vagas"
+              "title": "Sicredi"
             }
           }
         ]
@@ -174,9 +174,12 @@
   },
   "active": "2751b987d13aeb2f",
   "lastOpenFiles": [
-    "Pasted image 20250213170326.png",
+    "Ateliware.canvas",
+    "A.md",
+    "Sicredi.canvas",
     "Vagas.canvas",
     "Respostas de Vagas.canvas",
+    "Pasted image 20250213170326.png",
     "Práticas de desenvolvimento/TDD.md",
     "Metodologias Ágeis.md",
     "Práticas de desenvolvimento",
