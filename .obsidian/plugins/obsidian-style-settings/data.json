@@ -1,0 +1,12 @@
+{
+  "encore-settings@@theme-dark": "encore-theme-dark-glass-royale",
+  "encore-settings@@encore-translucency": true,
+  "encore-settings@@encore-translucency-strength": 0,
+  "encore-settings@@encore-custom-bold@@light": "#FF892A",
+  "encore-settings@@encore-custom-italic@@light": "#00C1FF",
+  "encore-settings@@encore-custom-italic@@dark": "#00C1FF",
+  "encore-settings@@encore-custom-bold@@dark": "#FF892A",
+  "encore-settings@@encore-custom-h1@@light": "#C300FF",
+  "encore-settings@@encore-custom-h1@@dark": "#C300FF",
+  "encore-settings@@colors": "encore-colors-custom"
+}
