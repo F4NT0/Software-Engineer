@@ -11,17 +11,14 @@
             "id": "2751b987d13aeb2f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Sicredi.canvas",
-                "viewState": {
-                  "x": 583.188219936065,
-                  "y": 700.7218613706802,
-                  "zoom": -0.9434094021576729
-                }
+                "file": "Metodologias Ágeis.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sicredi"
+              "icon": "lucide-file",
+              "title": "Metodologias Ágeis"
             }
           }
         ]
@@ -174,9 +171,9 @@
   },
   "active": "2751b987d13aeb2f",
   "lastOpenFiles": [
+    "Sicredi.canvas",
     "Ateliware.canvas",
     "A.md",
-    "Sicredi.canvas",
     "Vagas.canvas",
     "Respostas de Vagas.canvas",
     "Pasted image 20250213170326.png",

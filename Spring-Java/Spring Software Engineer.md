@@ -17,3 +17,4 @@ Página inicial de todo o conhecimento em Java com Spring que aprendi e continuo
 |                               |                              |
 
 - Roadmap de Estudos de Java: [[Java Roadmap]]
+- Kanban de Tarefas: [[Organização de Estudos]]
