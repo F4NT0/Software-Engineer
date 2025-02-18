@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "💵",
       "LiFolder",
       "LiHome"
     ],
@@ -38,5 +39,6 @@
   "Práticas de desenvolvimento": {
     "iconName": "LiFolder",
     "iconColor": "#ff7b00"
-  }
+  },
+  "Sicredi.canvas": "💵"
 }

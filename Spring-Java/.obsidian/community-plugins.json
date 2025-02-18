@@ -3,5 +3,8 @@
   "obsidian-style-settings",
   "code-styler",
   "obsidian-icon-folder",
-  "obsidian-icons-plugin"
+  "obsidian-icons-plugin",
+  "obsidian-plugin-toc",
+  "obsidian-kanban",
+  "calendar"
 ]

@@ -5,8 +5,65 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#basic ",
+      "color": {
+        "a": 1,
+        "rgb": 16347910
+      }
+    },
+    {
+      "query": "tag:#DS",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#config  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#OO  ",
+      "color": {
+        "a": 1,
+        "rgb": 11494871
+      }
+    },
+    {
+      "query": "tag:#REST  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#UT  ",
+      "color": {
+        "a": 1,
+        "rgb": 14501453
+      }
+    },
+    {
+      "query": "tag:#roadmap  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#home  ",
+      "color": {
+        "a": 1,
+        "rgb": 6538211
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 5.416435544289177,
+  "scale": 0.7132754626224453,
   "close": true
 }
