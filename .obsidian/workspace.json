@@ -11,10 +11,17 @@
             "id": "f29a62cbd00c89a9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "metodologia-agil/Respostas de Vagas.canvas",
+                "viewState": {
+                  "x": -200,
+                  "y": -20,
+                  "zoom": -0.3514723705013779
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Respostas de Vagas"
             }
           }
         ]
@@ -174,6 +181,9 @@
   },
   "active": "f29a62cbd00c89a9",
   "lastOpenFiles": [
+    "metodologia-agil/Radix.canvas",
+    "metodologia-agil/Respostas de Vagas.canvas",
+    "metodologia-agil/Sicredi.canvas",
     "Image/5-backendroadpam5.png",
     "Backend Roadmap.md",
     "Image/4-backendroadmap4.png",
@@ -181,10 +191,8 @@
     "Image/2-backendroadmap2.png",
     "Image/1-backendroadmap1.png",
     "metodologia-agil/Ateliware.canvas",
-    "metodologia-agil/Untitled.canvas",
     "metodologia-agil/A.md",
     "metodologia-agil/Untitled.md",
-    "metodologia-agil/Sicredi.canvas",
     "Image",
     "Image/1-principio-backendroadmap.png"
   ]

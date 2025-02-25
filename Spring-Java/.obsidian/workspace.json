@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Orientação a Objetos/Java Orientado a Objetos.md",
+                "file": "3 - Estrutura de Dados/Java vs Csharp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Orientado a Objetos"
+              "title": "Java vs Csharp"
             }
           }
         ]
@@ -230,15 +230,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "525a9922222c19f7",
+  "active": "63f15f038d721be8",
   "lastOpenFiles": [
+    "3 - Estrutura de Dados/3 - Estrutura de Dados.md",
+    "3 - Estrutura de Dados/Java vs Csharp.md",
     "Organização de Estudos.md",
     "4 - Orientação a Objetos/Java Orientado a Objetos.md",
     "4 - Orientação a Objetos/Atributos e Métodos de classes.md",
     "Spring Software Engineer.md",
     "4 - Orientação a Objetos/Sobrecarga (Overloading).md",
     "3 - Estrutura de Dados/ArrayList.md",
-    "3 - Estrutura de Dados/3 - Estrutura de Dados.md",
     "4 - Orientação a Objetos/Classes Genéricas.md",
     "1 - Configuração/Criando projeto Spring.md",
     "1 - Configuração/1 - Configurações.md",
