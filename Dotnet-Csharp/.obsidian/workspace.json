@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Minimal APIs/4 - Instalando Swagger.md",
+                "file": "7 - Minimal APIs/6 - Configurando SQLite no projeto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - Instalando Swagger"
+              "title": "6 - Configurando SQLite no projeto"
             }
           }
         ]
@@ -87,7 +87,7 @@
       {
         "id": "655f27943543ee38",
         "type": "tabs",
-        "dimension": 29.26356589147287,
+        "dimension": 29.224137931034484,
         "children": [
           {
             "id": "655a1aa9d561026b",
@@ -166,7 +166,7 @@
       {
         "id": "350efa17d6fe71ef",
         "type": "tabs",
-        "dimension": 37.2093023255814,
+        "dimension": 31.379310344827587,
         "children": [
           {
             "id": "24369715c69873e3",
@@ -183,7 +183,7 @@
       {
         "id": "20644356191ac69f",
         "type": "tabs",
-        "dimension": 33.52713178294574,
+        "dimension": 39.39655172413793,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -217,24 +217,34 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "7 - Minimal APIs/images/10-install-swagger.png",
-    "7 - Minimal APIs/images/8-acessando-2.png",
-    "7 - Minimal APIs/3 - Primeira config do Program.cs.md",
+    "7 - Minimal APIs/images/14-basic-file.png",
+    "7 - Minimal APIs/images/14-new-data-class.png",
+    "7 - Minimal APIs/images/14-creating-data-class.png",
+    "7 - Minimal APIs/images/14-new-folder-data.png",
+    "8 - Banco de dados/SQLite/Instalando SQLite.md",
+    "7 - Minimal APIs/images/13-created-db-sqlite.png",
+    "7 - Minimal APIs/6 - Configurando SQLite no projeto.md",
+    "7 - Minimal APIs/images/12-nuget-all-efcore.png",
+    "7 - Minimal APIs/images/12-nuget-efcore-sqlite.png",
+    "7 - Minimal APIs/5 - Instalando EF Core.md",
+    "7 - Minimal APIs/images/11-install-efcore2.png",
+    "7 - Minimal APIs/images/11-install-efcore1.png",
+    "7 - Minimal APIs/5 - Criando Model.md",
+    "8 - Banco de dados/images/5-connect-dbeaver3.png",
+    "8 - Banco de dados/images/5-connect-dbeaver2.png",
+    "8 - Banco de dados/SQLite/Home SQLite.md",
+    "8 - Banco de dados/images",
+    "8 - Banco de dados/New folder",
+    "8 - Banco de dados/SQLite",
+    "Untitled",
+    "8 - Banco de dados",
     "7 - Minimal APIs/4 - Instalando Swagger.md",
+    "Dotnet Software Engineer.md",
+    "7 - Minimal APIs/3 - Primeira config do Program.cs.md",
     "7 - Minimal APIs/1  - Criando pelo Visual Studio 2022.md",
     "7 - Minimal APIs/Minimal API.md",
     "7 - Minimal APIs/2 - Entendendo projeto inicial.md",
-    "7 - Minimal APIs/images/9-visual-nuget.png",
-    "7 - Minimal APIs/images/8-acessando-nuget.png",
-    "7 - Minimal APIs/images/7-minimal-estrutura.png",
-    "Dotnet Software Engineer.md",
     "7 - Minimal APIs/Untitled.md",
-    "7 - Minimal APIs/images/6-entendendo-solution.png",
-    "7 - Minimal APIs/images/6-removendo.png",
-    "7 - Minimal APIs/images/6-remova-weatherforecast.png",
-    "7 - Minimal APIs/images/5-home-page.png",
-    "7 - Minimal APIs/images/4-define-dotnet-8.png",
-    "7 - Minimal APIs/images/3-configure-nome-local.png",
     "7 - Minimal APIs/images",
     "7 - Minimal APIs/New folder",
     "2 - Básico de Csharp/13 - Strings/Interpolação de Strings.md",
@@ -252,18 +262,8 @@
     "1 - Configuração/Configuração.md",
     "Random/Java Streams.md",
     "6 - ASP.NET",
-    "5 - Algoritmos",
-    "4 - Orientação a Objetos",
     "2 - Básico de Csharp/3 - Estruturas Condicionais/SWITCH.md",
     "2 - Básico de Csharp/11 - ForEach/FOREACH.md",
-    "2 - Básico de Csharp/7 - Structs/STRUCT.md",
-    "2 - Básico de Csharp/8 - Enums/ENUM.md",
-    "1 - Configuração/Visual Studio 2022.md",
-    "2 - Básico de Csharp/3 - Estruturas Condicionais/IF-ELSE.md",
-    "2 - Básico de Csharp/1 - Tipos de dados/Conversão de tipos.md",
-    "Random/Brainstorm.canvas",
-    "2 - Básico de Csharp/Images",
-    "2 - Básico de Csharp/12 - GUID",
-    "Images"
+    "Random/Brainstorm.canvas"
   ]
 }
