@@ -11,18 +11,6 @@
             "id": "2751b987d13aeb2f",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250213170326.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250213170326"
-            }
-          },
-          {
-            "id": "627ee6e9e6c4c4df",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Cores de Diagramas.md",
@@ -32,9 +20,25 @@
               "icon": "lucide-file",
               "title": "Cores de Diagramas"
             }
+          },
+          {
+            "id": "627ee6e9e6c4c4df",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Radix.canvas",
+                "viewState": {
+                  "x": -694.0643376652379,
+                  "y": 420.34088432583803,
+                  "zoom": -0.299386001409996
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Radix"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,14 +186,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "627ee6e9e6c4c4df",
+  "active": "2751b987d13aeb2f",
   "lastOpenFiles": [
+    "Metodologias Ágeis.md",
     "Pasted image 20250213170326.png",
-    "Cores de Diagramas.md",
-    "Respostas de Vagas.canvas",
+    "Radix.canvas",
     "Vagas.canvas",
     "Sicredi.canvas",
-    "Metodologias Ágeis.md",
+    "Respostas de Vagas.canvas",
+    "Cores de Diagramas.md",
     "Ateliware.canvas",
     "A.md",
     "Práticas de desenvolvimento/TDD.md",

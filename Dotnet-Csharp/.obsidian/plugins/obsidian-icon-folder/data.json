@@ -89,5 +89,17 @@
   "6 - ASP.NET": {
     "iconName": "LiFolder",
     "iconColor": "#ff7b00"
+  },
+  "7 - Minimal APIs": {
+    "iconName": "LiFolder",
+    "iconColor": "#ff7b00"
+  },
+  "7 - Minimal APIs/images": {
+    "iconName": "LiImage",
+    "iconColor": "#ffea00"
+  },
+  "7 - Minimal APIs/Minimal API.md": {
+    "iconName": "LiFile",
+    "iconColor": "#1eff00"
   }
 }

@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "livePreview": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "useMarkdownLinks": false
 }

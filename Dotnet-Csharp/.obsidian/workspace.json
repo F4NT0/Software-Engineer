@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Básico de Csharp/13 - Strings/Comparação de Strings.md",
+                "file": "7 - Minimal APIs/4 - Instalando Swagger.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comparação de Strings"
+              "title": "4 - Instalando Swagger"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308,
-    "collapsed": true
+    "width": 308
   },
   "right": {
     "id": "9aef16c8d2a3d563",
@@ -190,21 +189,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dotnet Software Engineer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dotnet Software Engineer"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 326
+    "width": 363
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,15 +211,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "2 - Básico de Csharp/13 - Strings/Interpolação de Strings.md",
-    "2 - Básico de Csharp/13 - Strings/Comparação de Strings.md",
-    "2 - Básico de Csharp/Resumo.canvas",
+    "7 - Minimal APIs/images/10-install-swagger.png",
+    "7 - Minimal APIs/images/8-acessando-2.png",
+    "7 - Minimal APIs/3 - Primeira config do Program.cs.md",
+    "7 - Minimal APIs/4 - Instalando Swagger.md",
+    "7 - Minimal APIs/1  - Criando pelo Visual Studio 2022.md",
+    "7 - Minimal APIs/Minimal API.md",
+    "7 - Minimal APIs/2 - Entendendo projeto inicial.md",
+    "7 - Minimal APIs/images/9-visual-nuget.png",
+    "7 - Minimal APIs/images/8-acessando-nuget.png",
+    "7 - Minimal APIs/images/7-minimal-estrutura.png",
     "Dotnet Software Engineer.md",
+    "7 - Minimal APIs/Untitled.md",
+    "7 - Minimal APIs/images/6-entendendo-solution.png",
+    "7 - Minimal APIs/images/6-removendo.png",
+    "7 - Minimal APIs/images/6-remova-weatherforecast.png",
+    "7 - Minimal APIs/images/5-home-page.png",
+    "7 - Minimal APIs/images/4-define-dotnet-8.png",
+    "7 - Minimal APIs/images/3-configure-nome-local.png",
+    "7 - Minimal APIs/images",
+    "7 - Minimal APIs/New folder",
+    "2 - Básico de Csharp/13 - Strings/Interpolação de Strings.md",
+    "7 - Minimal APIs",
+    "2 - Básico de Csharp/13 - Strings/Comparação de Strings.md",
+    "2 - Básico de Csharp/12 - GUID/GUID.md",
+    "2 - Básico de Csharp/Resumo.canvas",
     "2 - Básico de Csharp/13 - Strings",
     "Random/Value Objects no .NET.md",
     "Random/Roadmap to .NET.md",
@@ -237,37 +254,16 @@
     "6 - ASP.NET",
     "5 - Algoritmos",
     "4 - Orientação a Objetos",
-    "2 - Básico de Csharp/Images/Conditional Structure - switch.png",
-    "2 - Básico de Csharp/Images/Conditional Structure - if-else.png",
     "2 - Básico de Csharp/3 - Estruturas Condicionais/SWITCH.md",
-    "2 - Básico de Csharp/Images/GUID.png",
     "2 - Básico de Csharp/11 - ForEach/FOREACH.md",
-    "2 - Básico de Csharp/12 - GUID/GUID.md",
     "2 - Básico de Csharp/7 - Structs/STRUCT.md",
     "2 - Básico de Csharp/8 - Enums/ENUM.md",
-    "2 - Básico de Csharp/Images/Data Types - Numbers.png",
     "1 - Configuração/Visual Studio 2022.md",
     "2 - Básico de Csharp/3 - Estruturas Condicionais/IF-ELSE.md",
-    "2 - Básico de Csharp/Images/Conversion types - Explicit.png",
     "2 - Básico de Csharp/1 - Tipos de dados/Conversão de tipos.md",
-    "2 - Básico de Csharp/Básico de Csharp.md",
-    "Random/Aleatórios.md",
     "Random/Brainstorm.canvas",
-    "Random/DRY.md",
-    "2 - Básico de Csharp/10 - Arrays/ARRAY.md",
-    "2 - Básico de Csharp/9 - Classes dotnet/Entendendo Classe.md",
-    "2 - Básico de Csharp/9 - Classes dotnet/Classe Math.md",
-    "2 - Básico de Csharp/6 - Tipos na memória/Tipos de Valor.md",
-    "Images/Pasted image 20250205132043.png",
-    "2 - Básico de Csharp/Images/Conversion types - Implicit.png",
-    "Images/1737540678028.jpg",
-    "Images/1737454716488.jpg",
-    "Images/1737367445824.jpg",
     "2 - Básico de Csharp/Images",
     "2 - Básico de Csharp/12 - GUID",
-    "Images",
-    "Random",
-    "2 - Básico de Csharp/11 - ForEach",
-    "2 - Básico de Csharp/10 - Arrays"
+    "Images"
   ]
 }
