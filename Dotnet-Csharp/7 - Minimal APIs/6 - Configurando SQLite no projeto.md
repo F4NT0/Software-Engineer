@@ -18,7 +18,7 @@ Iremos salvar os 4 pacotes pedidos que irão aparecer assim na aba de instalados
 ![[12-nuget-all-efcore.png]]
 ### Criando banco de dados inicial
 
-Para instalação do SQLite veja a página [[Instalando SQLite]]
+Para instalação do SQLite e outras informações veja [[Home SQLite]]
 
 Vou criar um novo banco de dados pelo console:
 
@@ -73,4 +73,29 @@ namespace MinimalAPI.Data
     }
 }
 ```
+
+Vamos adicionar agora o método construtor que iremos precisar para configurar o banco de dados no __Program.cs__ 
+
+```csharp
+public class AppDbContext : DbContext
+{
+	public AppDbContext(DbContextOptions<AppDbContext> options) : base(options){}  
+}
+```
+
+Nesse comando está sendo definido que o parâmetro _options_ está esperando um objeto da classe publica chamada __AppDbContext__ usando nossa classe e depois chamando o construtor da classe base (chamada DbContext) com o novo parâmetro options, isso serve para iniciar a conexão com o banco de dados personalizado utilizando o EntityFrameworkCore.
+
+### Configurando SQLite no Program.cs
+
+Agora podemos chamar o serviço do SQLite no Program, onde iremos utilizar a configuração do nosso __applicationsettings.json__ e a configuração feita na nova classe __AppDbContext__.
+
+Iremos chamar o serviço __AddDbContext__ e iremos configurar nosso SQLite com o método __UseSqlite__ 
+
+```csharp
+/// Configuring the database
+builder.Services.AddDbContext<AppDbContext>(options => {
+options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"));
+});
+```
+Nesse comando iremos utilizar nossa classe de configuração do banco de dados chamada _AppDbContext_ e iremos utilizar a nossa configuração do _appsettings.json_ da __ConnectionString__ chamada __DefaultConnection__ onde vai buscar o nosso banco de dados especificado.
 

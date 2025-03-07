@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "58e47d80f1552864",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "8ffe267ae4b4303a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Minimal APIs/6 - Configurando SQLite no projeto.md",
+                "file": "7 - Minimal APIs/8 - Trabalhando com DTOs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6 - Configurando SQLite no projeto"
+              "title": "8 - Trabalhando com DTOs"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308
+    "width": 370
   },
   "right": {
     "id": "9aef16c8d2a3d563",
@@ -87,7 +87,7 @@
       {
         "id": "655f27943543ee38",
         "type": "tabs",
-        "dimension": 29.224137931034484,
+        "dimension": 29.276315789473685,
         "children": [
           {
             "id": "655a1aa9d561026b",
@@ -166,7 +166,7 @@
       {
         "id": "350efa17d6fe71ef",
         "type": "tabs",
-        "dimension": 31.379310344827587,
+        "dimension": 25.767543859649123,
         "children": [
           {
             "id": "24369715c69873e3",
@@ -183,7 +183,7 @@
       {
         "id": "20644356191ac69f",
         "type": "tabs",
-        "dimension": 39.39655172413793,
+        "dimension": 44.95614035087719,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -199,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363
+    "width": 408
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,36 +215,40 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "8ffe267ae4b4303a",
   "lastOpenFiles": [
+    "Random/DTOS EXPLANATION WITH RECORDS.md",
+    "7 - Minimal APIs/8 - Trabalhando com DTOs.md",
+    "7 - Minimal APIs/7 - Criando Models.md",
+    "2 - Básico de Csharp/6 - Tipos na memória/Tipos de Valor (Stack).md",
+    "2 - Básico de Csharp/6 - Tipos na memória/Tipos de Referência (Heap).md",
+    "7 - Minimal APIs/Minimal API.md",
+    "7 - Minimal APIs/6 - Configurando SQLite no projeto.md",
+    "7 - Minimal APIs/5 - Instalando EF Core.md",
+    "7 - Minimal APIs/4 - Instalando Swagger.md",
+    "7 - Minimal APIs/3 - Primeira config do Program.cs.md",
+    "7 - Minimal APIs/2 - Entendendo projeto inicial.md",
+    "7 - Minimal APIs/1  - Criando pelo Visual Studio 2022.md",
+    "2 - Básico de Csharp/Básico de Csharp.md",
+    "Dotnet Software Engineer.md",
     "7 - Minimal APIs/images/14-basic-file.png",
     "7 - Minimal APIs/images/14-new-data-class.png",
     "7 - Minimal APIs/images/14-creating-data-class.png",
     "7 - Minimal APIs/images/14-new-folder-data.png",
     "8 - Banco de dados/SQLite/Instalando SQLite.md",
     "7 - Minimal APIs/images/13-created-db-sqlite.png",
-    "7 - Minimal APIs/6 - Configurando SQLite no projeto.md",
     "7 - Minimal APIs/images/12-nuget-all-efcore.png",
     "7 - Minimal APIs/images/12-nuget-efcore-sqlite.png",
-    "7 - Minimal APIs/5 - Instalando EF Core.md",
     "7 - Minimal APIs/images/11-install-efcore2.png",
     "7 - Minimal APIs/images/11-install-efcore1.png",
     "7 - Minimal APIs/5 - Criando Model.md",
     "8 - Banco de dados/images/5-connect-dbeaver3.png",
-    "8 - Banco de dados/images/5-connect-dbeaver2.png",
     "8 - Banco de dados/SQLite/Home SQLite.md",
     "8 - Banco de dados/images",
     "8 - Banco de dados/New folder",
     "8 - Banco de dados/SQLite",
     "Untitled",
     "8 - Banco de dados",
-    "7 - Minimal APIs/4 - Instalando Swagger.md",
-    "Dotnet Software Engineer.md",
-    "7 - Minimal APIs/3 - Primeira config do Program.cs.md",
-    "7 - Minimal APIs/1  - Criando pelo Visual Studio 2022.md",
-    "7 - Minimal APIs/Minimal API.md",
-    "7 - Minimal APIs/2 - Entendendo projeto inicial.md",
-    "7 - Minimal APIs/Untitled.md",
     "7 - Minimal APIs/images",
     "7 - Minimal APIs/New folder",
     "2 - Básico de Csharp/13 - Strings/Interpolação de Strings.md",
@@ -259,11 +263,7 @@
     "Random/Interview tips .NET Core.md",
     "Random/Four Design Patterns used rotinely.md",
     "Random/Essential Design Patterns.md",
-    "1 - Configuração/Configuração.md",
-    "Random/Java Streams.md",
     "6 - ASP.NET",
-    "2 - Básico de Csharp/3 - Estruturas Condicionais/SWITCH.md",
-    "2 - Básico de Csharp/11 - ForEach/FOREACH.md",
     "Random/Brainstorm.canvas"
   ]
 }

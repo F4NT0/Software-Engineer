@@ -1,5 +1,9 @@
 {
   "cssTheme": "Encore",
   "accentColor": "#fcad03",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "interfaceFontFamily": "Arial",
+  "textFontFamily": "FiraCode Nerd Font",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "baseFontSize": 14
 }
