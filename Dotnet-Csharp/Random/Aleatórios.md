@@ -10,3 +10,5 @@
 [[Roadmap to .NET]]
 [[Value Objects no .NET]]
 [[Brainstorm.canvas|Brainstorm]]
+[[DTOS EXPLANATION WITH RECORDS]]
+
