@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 14114297
       }
+    },
+    {
+      "query": "tag:dsa  ",
+      "color": {
+        "a": 1,
+        "rgb": 16081408
+      }
     }
   ],
   "collapse-display": true,
@@ -67,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.22232838554537637,
+  "scale": 0.31170059422478963,
   "close": true
 }

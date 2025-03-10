@@ -48,6 +48,8 @@ Agora vamos colocar em nossa classe __Program.cs__ a configuração do AutoMappe
 Temos que iniciar um novo _MapperConfiguration_ utilizando a nossa classe _MappingProfile_ adicionando assim os tipos de mapeamento possíveis, depois iniciamos um objeto Mapper para podermos utilizar em nosso projeto.
 
 ```csharp
-var MapperConfig = new MapperConfiguration(cfg => cfg.AddProfile<MappingProfile>());
-var mapper = config.CreateMapper();
+var mapperConfig = new MapperConfiguration(cfg => cfg.AddProfile<MappingProfile>());
+var mapper = mapperConfig.CreateMapper();
 ```
+
+Agora podemos usar o mapeamento entre DTO e Model em nossos controllers e requests.

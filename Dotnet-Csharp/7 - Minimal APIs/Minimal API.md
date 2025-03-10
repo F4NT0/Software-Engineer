@@ -17,4 +17,6 @@
 	6. [[6 - Configurando SQLite no projeto]]
 	7. [[7 - Criando Models]]
 	8. [[8 - Trabalhando com DTOs]]
+	9. [[9 - Conectando Model e DTO]]
+	10. [[10 - Criando um Service]]
 - Melhorando o projeto 
