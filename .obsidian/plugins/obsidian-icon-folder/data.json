@@ -42,5 +42,7 @@
   },
   "Dotnet-Csharp": "LiFolder",
   "metodologia-agil": "LiFolder",
-  "Spring-Java": "LiFolder"
+  "Spring-Java": "LiFolder",
+  "Developer-Terminal": "LiFolder",
+  "Prompt-Engineering": "LiFolder"
 }

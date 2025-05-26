@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ac519cdae8f64fa8",
+        "id": "5627cdd1fc2dd0d7",
         "type": "tabs",
         "children": [
           {
-            "id": "f29a62cbd00c89a9",
+            "id": "01226498f08705a4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "metodologia-agil/Respostas de Vagas.canvas",
-                "viewState": {
-                  "x": -200,
-                  "y": -20,
-                  "zoom": -0.3514723705013779
-                }
+                "file": "Prompt-Engineering/Engenharia de Prompt.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Respostas de Vagas"
+              "icon": "lucide-file",
+              "title": "Engenharia de Prompt"
             }
           }
         ]
@@ -179,18 +176,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f29a62cbd00c89a9",
+  "active": "01226498f08705a4",
   "lastOpenFiles": [
-    "metodologia-agil/Radix.canvas",
+    "metodologia-agil/Pasted image 20250213170326.png",
+    "metodologia-agil/Metodologias Ágeis.md",
+    "metodologia-agil/Cores de Diagramas.md",
+    "metodologia-agil/Ateliware.canvas",
+    "metodologia-agil/Práticas de desenvolvimento/TDD.md",
+    "Prompt-Engineering/Engenharia de Prompt.md",
+    "README.md",
+    "Prompt-Engineering",
+    "Developer-Terminal/Windows/ATAC.md",
+    "Developer-Terminal/Windows/Untitled.md",
+    "Developer-Terminal/images/Pasted image 20250331074340.png",
+    "Developer-Terminal/images",
+    "Developer-Terminal/Untitled",
+    "Developer-Terminal/Pasted image 20250331074340.png",
+    "Developer-Terminal/Windows/Scoop.md",
+    "Developer-Terminal/Windows",
+    "Developer-Terminal",
+    "Backend Roadmap.md",
     "metodologia-agil/Respostas de Vagas.canvas",
+    "metodologia-agil/Radix.canvas",
     "metodologia-agil/Sicredi.canvas",
     "Image/5-backendroadpam5.png",
-    "Backend Roadmap.md",
     "Image/4-backendroadmap4.png",
     "Image/3-backendroadmap3.png",
     "Image/2-backendroadmap2.png",
     "Image/1-backendroadmap1.png",
-    "metodologia-agil/Ateliware.canvas",
     "metodologia-agil/A.md",
     "metodologia-agil/Untitled.md",
     "Image",

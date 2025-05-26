@@ -1,41 +1,24 @@
 {
   "main": {
-    "id": "8e4fffc2bb4aaca3",
+    "id": "02ea81efd5760223",
     "type": "split",
     "children": [
       {
-        "id": "6d132b0483ebe12a",
+        "id": "70388333c68d4db4",
         "type": "tabs",
         "children": [
           {
-            "id": "2751b987d13aeb2f",
+            "id": "01c8c9818a408c06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Práticas de desenvolvimento/TDD.md",
+                "file": "Windows/Neovim IDE/Instalar Neovim Windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TDD"
-            }
-          },
-          {
-            "id": "627ee6e9e6c4c4df",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Radix.canvas",
-                "viewState": {
-                  "x": -694.0643376652379,
-                  "y": 420.34088432583803,
-                  "zoom": -0.299386001409996
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Radix"
+              "title": "Instalar Neovim Windows"
             }
           }
         ]
@@ -44,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "84eaaac8b96fe82a",
+    "id": "873b7ccf7605de72",
     "type": "split",
     "children": [
       {
-        "id": "56b4a543811ff2ec",
+        "id": "3750449149907487",
         "type": "tabs",
         "children": [
           {
-            "id": "5b3ba0c88670a53d",
+            "id": "6c9217f8f3115e98",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -65,7 +48,7 @@
             }
           },
           {
-            "id": "9888212d4bff6134",
+            "id": "b253e2b1611c73d6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -82,7 +65,7 @@
             }
           },
           {
-            "id": "92eb5f17cf1048b5",
+            "id": "53032757327f2606",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -98,20 +81,19 @@
     "width": 300
   },
   "right": {
-    "id": "37dee05fb4032989",
+    "id": "0cc9966ac7fbe8cd",
     "type": "split",
     "children": [
       {
-        "id": "af8298aa0cf1255c",
+        "id": "8fc0f959b9affa00",
         "type": "tabs",
         "children": [
           {
-            "id": "a23f7387fa5ac2a6",
+            "id": "b56448bc67122bfc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Práticas de desenvolvimento/TDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TDD"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "d11fba11e2fae3c2",
+            "id": "6c691ddecce379c3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Práticas de desenvolvimento/TDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from TDD"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "0267ee2f4f6851d6",
+            "id": "5d307e8d62f9b4bc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -154,18 +135,17 @@
             }
           },
           {
-            "id": "82b234c48571c98d",
+            "id": "26efa307ef100e52",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Práticas de desenvolvimento/TDD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TDD"
+              "title": "Outline"
             }
           }
         ]
@@ -182,23 +162,24 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "2751b987d13aeb2f",
+  "active": "01c8c9818a408c06",
   "lastOpenFiles": [
-    "Cores de Diagramas.md",
-    "Metodologias Ágeis.md",
-    "Pasted image 20250213170326.png",
-    "Radix.canvas",
-    "Vagas.canvas",
-    "Sicredi.canvas",
-    "Respostas de Vagas.canvas",
-    "Ateliware.canvas",
-    "A.md",
-    "Práticas de desenvolvimento/TDD.md",
-    "Práticas de desenvolvimento",
-    "Welcome.md"
+    "Windows/Neovim IDE/Instalando GCC para plugins.md",
+    "Windows/Neovim IDE/Criando config básica.md",
+    "Windows/Neovim IDE/Instalar Neovim Windows.md",
+    "Windows/Chocolatey.md",
+    "Windows/gsudo - sudo for windows.md",
+    "Windows/Scoop.md",
+    "images/2025-04-02_19-55.png",
+    "images/Pasted image 20250402193225.png",
+    "images/Pasted image 20250402193017.png",
+    "Windows/Neovim IDE",
+    "Windows/ATAC.md",
+    "images",
+    "images/Pasted image 20250331074340.png",
+    "Windows"
   ]
 }
