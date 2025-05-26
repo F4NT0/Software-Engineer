@@ -30,4 +30,9 @@ Atue como mentor de produtividade experiente....
 ## Prompt iterativo
 
 As vezes o prompt inicial não tem tudo esperado, dai podemos ampliar passo a passo o prompt perfeito com a resposta perfeita, pedindo auxilio a IA para conseguir construir melhor seu prompt.
+Vai validando os resultados, lapidando as respostas para o que você está procurando.
+
+## Prompt em Cadeia de pensamento
+
+Vai organizando em passo a passo para ter uma resposta técnica melhor do que é esperado da inteligência arificial, utilizando em etapas explicando de forma mais direta os cálculos, formas.
 
