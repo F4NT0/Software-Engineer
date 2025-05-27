@@ -36,3 +36,52 @@ Vai validando os resultados, lapidando as respostas para o que você está procu
 
 Vai organizando em passo a passo para ter uma resposta técnica melhor do que é esperado da inteligência arificial, utilizando em etapas explicando de forma mais direta os cálculos, formas.
 
+## Categorias de Prompts
+
+Arte de passar exemplos a IA
+
+### Zero-shot
+- Nenhum exemplo.
+- Para respostas mais simples, nada específico.
+- Perguntas diretas.
+
+```
+Crie uma legenda para uma foto de uma cafeteria artesanal.
+```
+### One-Shot
+- Um exemplo
+- Fornece um exemplo para a IA, de algo específico.
+- A IA segue o modelo especificado para criar o texto.
+
+```
+Crie uma legenda para uma foto de uma cafeteria artesanal.
+Exemplo de legenda: Nada como começar o dia com um café especial feito com carinho.
+Agora crie uma legenda semelhante para uma nova publicação.
+```
+- Ele irá aprender com o seu exemplo e irá criar algo bem direto e específico
+### Few-shot
+- Alguns exemplos
+- Temos que dar para a IA mais do que 3 ele irá formar um padrão que irá auxiliar na criação.
+
+```
+Me explique o que é disciplina seguindo os seguintes modelos:
+
+Exemplo 1:
+Pergunta: O que é Produtividade?
+Resposta: Capacidade de produzir mais resultados com menos esforço.
+
+Exemplo 2:
+Pergunta: O que é Foco?
+Resposta: Habilidade de direcionar sua atenção a uma unica tarefa.
+
+Exemplo 3:
+Pergunta: O que é motivação?
+Resposta: Motivação é a energia interna que impulsiona uma pessoa a agir.
+```
+
+## Técnica Role Play
+
+- Atribui uma função a IA.
+- Ela vai filtrar o conhecimento que tem para ser de um foco específico.
+- Muda o tipo de resposta para a função dela.
+- 
